@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;"> Our business is very image-conscious. Are your dumpsters clean and presentable?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We understand that brand image is paramount. We pride ourselves on having one of the best-maintained fleets in the industry. Our roll off containers are regularly serviced and painted to ensure they present a clean, professional appearance on your commercial property.</p>
+                <h4 class="template4 palooma" style="font-size:large;">We need to do our renovation after hours. Can you accommodate nighttime or weekend service?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. We specialize in working with commercial clients whose operations cannot be disrupted. We will work with you to schedule discreet, after-hours or weekend delivery and pickup times that align with your project’s schedule.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What do we do about old computers, printers, and other e-waste from our office cleanout?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While you can toss some electronics into the dumpster, we strongly encourage a more environmentally conscious approach. We recommend partnering with a dedicated e-waste recycling company for large quantities of computers and monitors. The dumpster is best used for furniture, fixtures, and general debris.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Our restaurant is getting rid of old ovens and prep tables. Can they go in the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. Heavy stainless steel equipment, ovens, and tables can be loaded into our dumpsters. The only exception is for equipment with refrigerants, like walk-in freezers or refrigerators, which must be professionally drained of Freon before disposal.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do we ensure the dumpster rental doesn't disrupt other businesses in our plaza or office park?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Communication is key. We will work with you and your property manager to identify the least disruptive placement for the roll off rental, typically in a designated loading zone or service alley. Our professional drivers are trained to operate quickly and quietly to minimize any impact on your neighbors.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
